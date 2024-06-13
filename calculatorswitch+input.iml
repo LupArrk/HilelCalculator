@@ -10,7 +10,6 @@ public class Calculator {
         return a + b;
     }
 
-    // Updated method with switch-case
     static void calc(double numA, double numB, char operation) {
         double result;
         switch (operation) {
